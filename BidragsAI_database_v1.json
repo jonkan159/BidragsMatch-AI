@@ -1,0 +1,135 @@
+[
+  {
+    "id": "BORAS_2025",
+    "namn": "Borås Stad – Projekt- och arrangemangsbidrag",
+    "typ": "Kommunal",
+    "målgrupp": "Ideella föreningar, kulturaktörer verksamma i Borås",
+    "stödbelopp": "Upp till ca 100 000 kr",
+    "kriterier": "Projektet ska vara icke-kommersiellt, genomföras i Borås, vara öppet för allmänheten och bidra till kommunens kulturvision.",
+    "språkstil": "Formell, lokal förankring, socialt hållbart Borås-ton.",
+    "nyckelord": [
+      "lokal förankring",
+      "öppet för allmänheten",
+      "icke-kommersiellt",
+      "kreativ utveckling",
+      "Socialt hållbart Borås"
+    ],
+    "vanliga_misstag": "För kort beskrivning av mål, saknad budget eller felaktig starttid innan beslut.",
+    "exempeltext": "Rymden är ett publikt kulturarrangemang där elektronisk musik möter konst i en trygg, alkoholfri miljö. Projektet stärker Borås som modig kulturkommun genom att engagera unga konstnärer och skapa social gemenskap.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  },
+  {
+    "id": "VGR_2025",
+    "namn": "Västra Götalandsregionen – Projektstöd Kultur",
+    "typ": "Regional",
+    "målgrupp": "Föreningar, fria grupper, kommuner i Västra Götaland",
+    "stödbelopp": "20 000 – 600 000 kr",
+    "kriterier": "Projekt ska bidra till regionens kulturplan: konstnärlig utveckling, ungas delaktighet, digitalisering och samverkan.",
+    "språkstil": "Professionell, regionalt utvecklingsfokus.",
+    "nyckelord": [
+      "konstnärlig förnyelse",
+      "digitalisering",
+      "breddat deltagande",
+      "regional spridning",
+      "samverkan"
+    ],
+    "vanliga_misstag": "Otydlig koppling till kulturstrategin, brist på struktur, saknad revisor.",
+    "exempeltext": "Projektet Rymden utvecklar nya former för kulturupplevelser genom att förena konst, musik och teknik i Borås och andra kommuner i regionen.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  },
+  {
+    "id": "KULTURRAD_2025",
+    "namn": "Kulturrådet – Projektbidrag Musikområdet",
+    "typ": "Nationell",
+    "målgrupp": "Organisationer inom musikområdet",
+    "stödbelopp": "100 000 – 500 000 kr",
+    "kriterier": "Projekt ska hålla hög konstnärlig kvalitet, vara nyskapande och nå nya publikgrupper.",
+    "språkstil": "Konstnärligt och analytiskt, med fokus på kvalitet och relevans.",
+    "nyckelord": [
+      "konstnärlig förnyelse",
+      "breddat deltagande",
+      "nationell spridning",
+      "hög kvalitet",
+      "tillgänglighet"
+    ],
+    "vanliga_misstag": "Svag beskrivning av konstnärlig kvalitet eller målgrupp, otydlig budget.",
+    "exempeltext": "Rymden är ett nyskapande verk som kombinerar psytrance och ljuskonst i interaktiva konsertformat med publik mitt i scenografin.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  },
+  {
+    "id": "KULTURBRYGGAN_2025",
+    "namn": "Kulturbryggan – Nyskapande Kulturprojekt",
+    "typ": "Nationell",
+    "målgrupp": "Konstnärliga organisationer och fria grupper",
+    "stödbelopp": "100 000 – 1 500 000 kr",
+    "kriterier": "Projekt ska visa konstnärlig förnyelse, genomförbarhet, publikförankring och metodspridning.",
+    "språkstil": "Visionär och experimentell men konkret i planering.",
+    "nyckelord": [
+      "hybridformat",
+      "publikmedverkan",
+      "spridning",
+      "metoddelning",
+      "tvärsektoriellt"
+    ],
+    "vanliga_misstag": "För vag plan eller otydlig publikroll, underskattad riskanalys.",
+    "exempeltext": "RYMDEN korsar ravekultur och samtidskonst till en publikinteraktiv upplevelse som kan upprepas och skalas i flera städer.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  },
+  {
+    "id": "ARVSFOND_2025",
+    "namn": "Allmänna Arvsfonden – Projektstöd för unga",
+    "typ": "Nationell",
+    "målgrupp": "Barn och unga 0–25 år, föreningar",
+    "stödbelopp": "500 000 – 2 500 000 kr (3 år)",
+    "kriterier": "Projekt ska vara nyskapande, målgruppen ska delta aktivt och syfta till social nytta.",
+    "språkstil": "Empatisk, samhällsinriktad, lösningsfokuserad.",
+    "nyckelord": [
+      "ungas delaktighet",
+      "empowerment",
+      "psykisk hälsa",
+      "inkludering",
+      "metodutveckling"
+    ],
+    "vanliga_misstag": "Otydlig målgruppsdelaktighet eller svag varaktighetsplan.",
+    "exempeltext": "Rymden skapar en trygg kulturmiljö där unga bygger självförtroende och sociala band genom musik och konst.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  },
+  {
+    "id": "VINNOVA_2025",
+    "namn": "Vinnova – Innovationsprojekt (Kultur/Tech)",
+    "typ": "Nationell (innovation)",
+    "målgrupp": "Startupbolag, föreningar i partnerskap",
+    "stödbelopp": "Upp till 500 000 kr (Innovativa Startups)",
+    "kriterier": "Projekt ska visa teknisk och social innovation med samhällsnytta.",
+    "språkstil": "Teknisk, affärsorienterad, datadriven.",
+    "nyckelord": [
+      "proof of concept",
+      "AI",
+      "disruptiv",
+      "skalbar lösning",
+      "Impact Innovation"
+    ],
+    "vanliga_misstag": "För lite fokus på affärspotential och exploatering.",
+    "exempeltext": "Rymden utvecklar en interaktiv app som låter publik styra ljus och ljud i realtid, med potential för global spridning.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  },
+  {
+    "id": "STIFTELSER_2025",
+    "namn": "Privata Stiftelser – Sparbanksstiftelsen, Postkodstiftelsen, Signatur",
+    "typ": "Privat",
+    "målgrupp": "Ideella föreningar med kultur- och samhällsprojekt",
+    "stödbelopp": "30 000 – 500 000 kr",
+    "kriterier": "Projekt ska skapa lokal eller nationell nytta, vara tidsbegränsat och mätbart.",
+    "språkstil": "Positiv, samhällsfokuserad, konkret.",
+    "nyckelord": [
+      "inkludering",
+      "lokal nytta",
+      "hållbarhet",
+      "innovation",
+      "delaktighet"
+    ],
+    "vanliga_misstag": "För lokal eller vag effekt, saknad utvärdering.",
+    "exempeltext": "Med stöd från Sparbanksstiftelsen Sjuhärad skapar vi workshops i ljusdesign som engagerar unga i hela regionen.",
+    "källa": "Mallar för bidragsansökningar – Projekt RYMDEN.docx"
+  }
+]
